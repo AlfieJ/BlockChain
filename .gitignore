@@ -1,1 +1,5 @@
 .vs/
+BlockChain/bin/
+BlockChain/obj/
+Tests/bin/
+Tests/obj/
